@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning back end more and more  
   
 
-- ❓ Ask me about anything related to node JS back related technologies as well as crypto  
+- ❓ Ask me about anything related to node JS and related technologies as well as crypto  
   
 
 - ⚡ Fun fact: I am also a civil engineer!  
