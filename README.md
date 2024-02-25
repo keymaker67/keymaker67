@@ -12,10 +12,10 @@
 - 🔭 I’m currently working on [Github](https://github.com/keymaker67)  
   
 
-- 🌱 I’m currently learning back end more and more  
+- 🌱 I’m always learning more and more  
   
 
-- ❓ Ask me about anything related to node JS and related technologies as well as crypto  
+- ❓ Ask me about anything related to Python and related technologies as well as crypto  
   
 
 - ⚡ Fun fact: I am also a civil engineer!  
