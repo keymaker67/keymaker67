@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Amin from Iran, and I do back-end development. I really enjoy programming in java script as well as python. 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Amin from Iran, and I do back-end development. I really enjoy programming in Python. 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github](https://github.com/keymaker67)  
